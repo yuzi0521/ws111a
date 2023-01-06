@@ -1,4 +1,6 @@
-<h1>本程式修改至老師的07-session > 03-blogSignup</h1>  
+<h1>本程式修改自老師的07-session > 03-blogSignup</h1>  
+
+後端基本來自老師的程式，無過多變動
 
 修改內容:  
 1.增加CSS [主要參考W3school](https://www.w3schools.com/css/css3_gradients.asp)  
